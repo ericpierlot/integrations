@@ -1,0 +1,15 @@
+footer {
+  padding-top: 2rem;
+  width: 90%;
+  margin: auto;
+  height: 50px;
+  text-align: center;
+  background-color: transparent;
+  font-size: 0.7rem;
+  font-weight: 300;
+  border-top: 1px solid lightgrey;
+  padding-bottom: 2rem;
+}
+footer a {
+  text-decoration: underline;
+}

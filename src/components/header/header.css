@@ -1,0 +1,31 @@
+header {
+  width: 90%;
+  margin: auto;
+  padding-bottom: 2rem;
+}
+header h1 {
+  padding-top: 3rem;
+  font-weight: 800;
+  font-size: 3rem;
+  text-align: center;
+}
+header p {
+  padding-top: 1rem;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  line-height: 1.5rem;
+}
+header p span:nth-child(1), header p :nth-child(2) {
+  color: blue;
+  font-weight: bold;
+}
+header p span:last-child {
+  color: purple;
+  font-weight: bold;
+}
+@media screen and (min-width: 1050px) {
+  header p {
+    width: 60%;
+  }
+}
