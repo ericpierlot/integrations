@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/integrations/static/css/main.1c087ce3.chunk.css",
+    "main.js": "/integrations/static/js/main.dfe6e9f8.chunk.js",
+    "main.js.map": "/integrations/static/js/main.dfe6e9f8.chunk.js.map",
+    "runtime-main.js": "/integrations/static/js/runtime-main.346cfd56.js",
+    "runtime-main.js.map": "/integrations/static/js/runtime-main.346cfd56.js.map",
+    "static/js/2.9f870385.chunk.js": "/integrations/static/js/2.9f870385.chunk.js",
+    "static/js/2.9f870385.chunk.js.map": "/integrations/static/js/2.9f870385.chunk.js.map",
+    "index.html": "/integrations/index.html",
+    "static/css/main.1c087ce3.chunk.css.map": "/integrations/static/css/main.1c087ce3.chunk.css.map",
+    "static/js/2.9f870385.chunk.js.LICENSE.txt": "/integrations/static/js/2.9f870385.chunk.js.LICENSE.txt",
+    "static/media/coca.63b4f375.png": "/integrations/static/media/coca.63b4f375.png",
+    "static/media/disney.bb09a6f0.png": "/integrations/static/media/disney.bb09a6f0.png",
+    "static/media/gucci.a34f7207.png": "/integrations/static/media/gucci.a34f7207.png",
+    "static/media/hermes.d8414c2c.png": "/integrations/static/media/hermes.d8414c2c.png",
+    "static/media/image.170ab609.png": "/integrations/static/media/image.170ab609.png",
+    "static/media/lv.a4a3b9eb.png": "/integrations/static/media/lv.a4a3b9eb.png",
+    "static/media/mercedes.f3c7f4f5.png": "/integrations/static/media/mercedes.f3c7f4f5.png",
+    "static/media/nike.4d3d3ba0.png": "/integrations/static/media/nike.4d3d3ba0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.346cfd56.js",
+    "static/js/2.9f870385.chunk.js",
+    "static/css/main.1c087ce3.chunk.css",
+    "static/js/main.dfe6e9f8.chunk.js"
+  ]
+}
